@@ -1,1 +1,2 @@
-# Django-Setup
+# meusite
+Django Personal Blog
